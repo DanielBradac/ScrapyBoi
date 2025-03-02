@@ -44,5 +44,5 @@ bin/
 ### Mac OS ###
 .DS_Store
 
-articlesHD
-articlesHS
+articlesHD/*
+articlesHS/*
